@@ -51,14 +51,13 @@ To run this project locally:
 
 Clone the Repository
 
-git clone https://github.com/your-username/fullname-form.git
-cd form
+git clone https://github.com/dhamodharanECE/Build-the-Full-Name-Display-Implementation.git
 
+cd form
 
 Install Dependencies
 
 npm install
-
 
 Start the Application
 
