@@ -82,10 +82,9 @@ Initial Render:
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/bdc8537b-e6f6-46fe-9f2b-783ea99b6f73" />
 
-[First Name] [Last Name] [Submit Button (disabled)]
-
-1. Deployment Link:
-    ```base
-        https://build-the-full-name-display-impleme.vercel.app/
 After Submitting:
 Full Name: Dhamodharan S
+
+1. Deployment Link:
+```base
+https://build-the-full-name-display-impleme.vercel.app/
